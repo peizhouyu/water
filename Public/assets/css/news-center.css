@@ -1,0 +1,16 @@
+[class*=am-u-]+[class*=am-u-]:last-child{
+	float: left;
+}
+[class*=am-u-]{
+	padding-left: .5em;
+	padding-right: .5em;
+}
+.listNews ul li .list-card a.list-img{
+	width: 100%;
+    display: block;
+    position: relative;
+    height: 0;
+    padding-bottom: 67%;
+    overflow: hidden;
+    background: #dddddd;
+}

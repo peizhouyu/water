@@ -1,0 +1,644 @@
+[ 2016-04-25T16:51:42+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000270s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000327s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021115s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021193s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000851s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000918s ]
+
+[ 2016-04-25T16:52:06+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001630s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000309s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000394s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018652s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018782s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001111s ]
+
+[ 2016-04-25T16:53:14+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001045s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000433s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000514s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000862s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001762s ]
+
+[ 2016-04-25T16:54:45+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000302s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018892s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001587s ]
+
+[ 2016-04-25T17:02:30+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021952s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022039s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001553s ]
+
+[ 2016-04-25T17:08:45+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000460s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000602s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026905s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003406s ]
+
+[ 2016-04-25T17:09:57+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000262s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002520s ]
+
+[ 2016-04-25T17:11:49+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003275s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000310s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023839s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023942s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001717s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001813s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001976s ]
+
+[ 2016-04-25T17:21:38+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000420s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000526s ]
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001943s ]
+
+[ 2016-04-25T17:27:22+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc LIMIT 3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000322s ]
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001645s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001806s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002167s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002267s ]
+
+[ 2016-04-25T17:29:21+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001873s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc LIMIT 3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000230s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000294s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022678s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001232s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002391s ]
+
+[ 2016-04-25T17:35:31+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_zhannei` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `news_zhannei` ORDER BY id desc LIMIT 3   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002374s ]
+
+[ 2016-04-25T17:37:20+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001799s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `websitebusiness_content` ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+NOTIC: [8] Undefined index: tab D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 530 行.
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+NOTIC: [8] Undefined index: tab D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 530 行.
+NOTIC: [8] Undefined index: himg_url D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 529 行.
+NOTIC: [8] Undefined index: tab D:\xampp\htdocs\develop\water\Index\Runtime\Cache\Home\f8cf203eb98c60ed9cec339b90173a5c.php 第 530 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001655s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002420s ]
+
+[ 2016-04-25T17:39:04+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001572s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `websitebusiness_content` ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000233s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001791s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002142s ]
+
+[ 2016-04-25T17:40:05+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `websitebusiness_content` ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018979s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001630s ]
+
+[ 2016-04-25T17:42:18+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0032s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 15 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` <> 'jiaoliuhui' ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000263s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003396s ]
+
+[ 2016-04-25T17:48:03+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001320s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0035s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 15 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` <> 'jiaoliuhui' ORDER BY id desc LIMIT 3   [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'jiaoliuhui' ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000259s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000332s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019687s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019793s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002146s ]
+
+[ 2016-04-25T17:48:24+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002266s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0033s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 15 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` <> 'jiaoliuhui' ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'jiaoliuhui' ORDER BY id desc LIMIT 4   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002403s ]
+
+[ 2016-04-25T22:13:20+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002259s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0289s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0110s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 15 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` <> 'jiaoliuhui' ORDER BY id desc LIMIT 3   [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'jiaoliuhui' ORDER BY id desc LIMIT 4   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002230s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002324s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001600s ]
+
+[ 2016-04-25T22:17:05+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0040s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 15 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` <> 'jiaoliuhui' ORDER BY id desc LIMIT 3   [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'jiaoliuhui' ORDER BY id desc LIMIT 4   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001626s ]
+
+[ 2016-04-25T22:28:02+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001665s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0034s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 15 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` <> 'jiaoliuhui' ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'jiaoliuhui' ORDER BY id desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `productshow_content` ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000305s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000380s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001979s ]
+
+[ 2016-04-25T22:30:44+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0039s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 15 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` <> 'jiaoliuhui' ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'jiaoliuhui' ORDER BY id desc LIMIT 4   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `productshow_content` ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000258s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022702s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022784s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001850s ]
+
+[ 2016-04-25T22:32:02+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001795s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0040s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 15 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` <> 'jiaoliuhui' ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'jiaoliuhui' ORDER BY id desc LIMIT 4   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `productshow_content` ORDER BY id desc LIMIT 3   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000390s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000490s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001943s ]
+
+[ 2016-04-25T22:32:53+08:00 ] ::1 /develop/water/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001676s ]
+SQL: SHOW COLUMNS FROM `banner` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `banner` WHERE ( isdel=0 ) ORDER BY number desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `news_pic` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `news_pic` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0035s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 15 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` <> 'jiaoliuhui' ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Index\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'jiaoliuhui' ORDER BY id desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `productshow_content` ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002245s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002318s ]
+

@@ -1,0 +1,923 @@
+body{ background: #f5f5f5}
+
+.listStatus.surveyStatus:hover .imgBlur,.listStatus.dataStatus:hover .imgBlur{
+    -webkit-filter: blur(6px); /* Chrome, Opera */
+       -moz-filter: blur(6px);
+        -ms-filter: blur(6px);  
+         -o-filter: blur(6px);   
+            filter: blur(6px);
+    
+    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=0, MakeShadow=false); /* IE6~IE9 */}
+
+
+/* 校史资料列表 卡片样式 */
+.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit a.mainTitle{
+    font-size: 1.25em; color: black; line-height: 3.5em; text-align: center;
+	word-wrap: normal; display: block; overflow: hidden;
+	text-overflow: ellipsis; white-space: nowrap; }
+.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit p.subTitle{ margin-bottom: .5em;
+	font-size: .75em; line-height: 20px; height: 96px; max-height: 96px; display: block;
+  	overflow: hidden;}
+.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit div.subTitle{ margin-bottom: .5em;
+	font-size: .75em; line-height: 32px; height: 96px; max-height: 96px; display: block;
+  	overflow: hidden;}
+.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit div.subTitle ul.am-avg-sm-2 li{
+	width: 50%; text-indent: 1em; line-height: 32px;}
+.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit div.subTitle ul.am-avg-sm-2 li a{ color: #999999;}
+.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit div.subTitle ul.am-avg-sm-2 li a:hover{ color: #000000;}
+
+
+/* 校史资料subNav 副导航－移动端  */
+#mobile-subNav.am-menu-slide1 .am-menu-toggle{ top: -52px;}
+#mobile-subNav.am-menu-slide1 .am-menu-toggle i{ font-size: 20px;}
+#mobile-subNav.am-menu-slide1 .am-menu-nav{ 
+	box-shadow: 0 1px 3px rgba(0,0,0,0.16);
+	-o-box-shadow: 0 1px 3px rgba(0,0,0,0.16);
+	-ms-box-shadow: 0 1px 3px rgba(0,0,0,0.16);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.16);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.16);
+	background: #ffffff;}
+#mobile-subNav.am-menu-slide1 .am-menu-nav.am-in:before{ right: 20px;}
+#mobile-subNav.am-menu-slide1 .am-menu-nav li.sub-align{ text-indent: -1em;}
+#mobile-subNav.am-menu-slide1 .am-menu-nav a{ line-height: 44px; height: 44px; color: #666666}
+#mobile-subNav.am-menu-slide1 .am-menu-sub{ background: #f7f7f7; border-top: 1px solid #293e86;
+	box-shadow: 0 4px 12px rgba(0,0,0,0.24);
+	-o-box-shadow: 0 4px 12px rgba(0,0,0,0.24);
+	-ms-box-shadow: 0 4px 12px rgba(0,0,0,0.24);
+	-moz-box-shadow: 0 4px 12px rgba(0,0,0,0.24);
+	-webkit-box-shadow: 0 4px 12px rgba(0,0,0,0.24);
+}
+#mobile-subNav.am-menu-slide1 .am-menu-nav>.am-parent.am-open>a,
+#mobile-subNav.am-menu-slide1 .am-menu-nav>.am-parent>a:before{ color: #293e86}
+#mobile-subNav.am-menu-slide1 .am-menu-sub>li>a{ color: #333333; font-size: 0.875em;}
+/* #mobile-subNav.am-menu-slide1 .am-menu-nav li.sub-align a:hover{ color: #293e86} */
+
+
+
+
+.dataInfo{ width: 100%; background: #f5f5f5;}
+.dataInfo .data-subNav,.dataInfo .data-content-package{ width: 50%; position: relative; float: left;}
+
+/* 校史资料 accordion手风琴效果 通用共享  */
+.data-accordion,.data-accordion ul,.data-accordion ul li,
+.identity-accordion,.identity-accordion .data-submenu,
+.power-accordion,.power-accordion .data-submenu,
+.system-table,.system-table .data-submenu{ margin: 0; padding: 0;
+	border: 0; vertical-align: baseline;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;}
+
+.data-accordion .data-link,
+.identity-accordion .data-link,
+.power-accordion .data-link,
+.system-table .data-link,
+.system-table .data-link span{ 
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	-ms-transition: all 0.4s ease;
+	-o-transition: all 0.4s ease;
+	transition: all 0.4s ease;}
+
+.data-accordion li i,
+.identity-accordion li i,
+.power-accordion li i,
+.system-table li i{
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	-ms-transition: all 0.4s ease;
+	-o-transition: all 0.4s ease;
+	transition: all 0.4s ease;}
+
+.data-accordion li.open i,
+.identity-accordion li.open i,
+.power-accordion li.open i,
+.system-table li.open i { color: #293e86;
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	transform: rotate(180deg);}
+
+.data-accordion .data-submenu a,
+.identity-accordion .data-submenu a,
+.power-accordion .data-submenu a,
+.system-table .data-submenu a { 
+ 	-webkit-transition: all 0.25s ease;
+ 	-moz-transition: all 0.25s ease;
+ 	-ms-transition: all 0.25s ease;
+ 	-o-transition: all 0.25s ease;
+ 	transition: all 0.25s ease; }
+
+.system-table li.open .data-link,
+.power-accordion li.open .data-link,
+.identity-accordion li.open .data-link,
+.data-accordion li.open .data-link{
+	box-shadow: 0 1px 0 #ececec;
+	-o-box-shadow: 0 1px 0 #ececec;
+	-ms-box-shadow: 0 1px 0 #ececec;
+	-moz-box-shadow: 0 1px 0 #ececec;
+	-webkit-box-shadow: 0 1px 0 #ececec;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+	-o-box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+	-ms-box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.08);}
+
+/* 校史资料 data-subNav 手风琴效果  */
+.data-accordion-package { width: 300px; max-width: 300px;}
+.data-accordion { border: 1px solid #dddddd;}
+.data-accordion .data-link{ cursor: pointer; display: block; height: 74px; line-height: 74px; 
+	color: #4D4D4D; background: #ececec; font-size: 1.125em; text-indent: 2.25em;
+	font-weight: normal; position: relative; border-top: 1px solid #dddddd;}
+.data-accordion .data-link a{
+	color: #4D4D4D;}
+.data-accordion li:first-child .data-link { border-top: 0;}
+	/* data-subLine 溢出线  */
+.data-accordion-package .data-subLine{ height: 42px; border-left: 1px solid #dddddd;}
+
+.data-accordion li i { position: absolute; top: 0; right: 24px; left: auto;
+	color: #aaaaaa; font-size: 1.5em; font-weight: 100; line-height: 74px; text-indent: 0;}
+
+.data-accordion .data-link:hover{ background: #f9f9f9; border-left: 0px solid #293e86;
+	text-indent: 2.875em;}
+.data-accordion li .data-link:hover i { text-indent: 0; color: #293e86}
+
+.data-accordion li.open .data-link { color: #293e86; border-left: 4px solid #293e86; background: #f9f9f9;}
+
+	/*------- data-submenu ----------------------------*/
+.data-accordion .data-submenu { display: none; background: #f5f5f5; font-size: .875em;}
+.data-accordion .data-submenu li { border-bottom: 1px solid #ececec;}
+.data-accordion .data-submenu a { display: block; text-decoration: none;
+ 	color: #797979; line-height: 52px; text-indent: 3.25em;}
+.data-accordion .data-submenu a:hover { background: #293e86; color: #ffffff; text-indent: 4em;}
+
+
+/* 校园标识 identity-accordion 手风琴效果  */
+.identity-accordion-package{ min-height: 1200px;}
+.identity-accordion li{ margin-bottom: 8px;}
+.identity-accordion .data-link{ font-size: 1.125em; line-height: 56px; background: #f5f5f5;
+	border-left: 6px solid #96a1c3; text-indent: 1.5em; font-weight: normal; margin: 0; letter-spacing: 12px;
+	position: relative; cursor: pointer;}
+.identity-accordion .data-link:hover{ background: #fbfbfb; border-left: 3px solid #96a1c3;
+	text-indent: 2.875em;}
+
+.identity-accordion li .data-link i { position: absolute; top: 0; right: 24px; left: auto;
+	color: #aaaaaa; font-size: 1.5em; font-weight: 100; line-height: 56px; text-indent: 0;}
+.identity-accordion li .data-link:hover i { text-indent: 0; color: #293e86}
+
+.identity-accordion li.open .data-link { color: #293e86; border-left: 6px solid #293e86; background: #f9f9f9;
+	text-indent: 2.5em; font-weight: bold;}
+
+.identity-accordion li.open .data-submenu { display: block;}
+
+.identity-accordion .data-submenu { display: none; font-size: .875em;}
+.identity-accordion .data-submenu table{ margin: 0 auto; padding-top: 2em; border: none;
+	padding-bottom: 2em; max-width: 88%}
+.identity-accordion .data-submenu table>tbody>tr>td{ padding-top: 0; padding-bottom: 0; min-width: 72px;}
+.identity-accordion .data-submenu table>tbody>tr>td:first-child{ background: #293e86; color: #ffffff; font-size: 0.75em;
+	text-align: center; line-height: 44px;
+	border-top-color: #35498d;}
+.identity-accordion .data-submenu table>tbody>tr>td:last-child{ font-size: .875em; line-height: 44px; padding-left: 1em;
+	border-top-color: #ecf0f4;}
+.identity-accordion .data-submenu h2{ font-weight: normal; color: #797979; line-height: 48px; margin: 0}
+.identity-accordion .data-submenu img { display: block; margin: 0 auto; padding-bottom:3em; padding-top: 1.5em;}
+
+
+/* 历任领导 power-accordion 手风琴效果  */
+.power-accordion-package{ min-height: 1200px;}
+.power-accordion li{ margin-bottom: 8px;}
+.power-accordion .data-link{ font-size: 1.125em; line-height: 56px; background: #f5f5f5;
+	border-left: 6px solid #96a1c3; text-indent: 1.5em; font-weight: normal; margin: 0; letter-spacing: 3px;
+	position: relative; cursor: pointer;}
+.power-accordion .data-link:hover{ background: #fbfbfb; border-left: 3px solid #96a1c3;
+	text-indent: 2.875em;}
+.power-accordion li .data-link i { position: absolute; top: 0; right: 24px; left: auto;
+	color: #aaaaaa; font-size: 1.5em; font-weight: 100; line-height: 56px; text-indent: 0;}
+.power-accordion li .data-link:hover i { text-indent: 0; color: #293e86}
+.power-accordion li.open .data-link { color: #293e86; border-left: 6px solid #293e86; background: #f9f9f9;
+	text-indent: 2.5em; font-weight: bold;}
+.power-accordion li.open .data-submenu { display: block;}
+.power-accordion .data-submenu { display: none; font-size: .875em;}
+.power-accordion .data-submenu table{ margin: 2em auto; border: none; max-width: 92%;
+	border: 1px solid #dddddd; border-top: none;}
+.power-accordion .data-submenu table>tbody>tr>td{ padding-top: 0; padding-bottom: 0; min-width: 72px;
+	line-height: 44px; font-size: 0.875em; text-align: center; vertical-align: middle;}
+
+
+
+/* 管理机构 system */
+.system-table-package{ min-height: 1200px;}
+.system-table li{ margin-bottom: 8px;}
+.system-table .data-link{ font-size: 1.125em; line-height: 56px; background: #f5f5f5;
+	border-left: 6px solid #96a1c3; text-indent: 1.5em; font-weight: normal; margin: 0; letter-spacing: 3px;
+	position: relative; cursor: pointer; color: #ffffff;}
+.system-table .data-link-management{ background: #886c47; border-left: 6px solid #c3b5a3;}
+.system-table .data-link-party{ background: #8e3a34; border-left: 6px solid #c69c99;}
+.system-table .data-link-under{ background: #417798; border-left: 6px solid #a0bbcb;}
+.system-table .data-link-service{ background: #8a8f49; border-left: 6px solid #c4c7a4;}
+.system-table .data-link span{ font-size: 0.875em; float: right; letter-spacing: 0; margin-right: 18px;
+	opacity: 0.48}
+
+.system-table .data-link:hover{ text-indent: 2.875em;}
+.system-table .data-link-management:hover{ background: #8f7451; border-left: 5px solid #7d6341;}
+.system-table .data-link-party:hover{ background: #94453f; border-left: 5px solid #82352f;}
+.system-table .data-link-under:hover{ background: #4c7f9e; border-left: 5px solid #3b6d8c;}
+.system-table .data-link-service:hover{ background: #909553; border-left: 5px solid #7f8343;}
+.system-table .data-link:hover span{ margin-right: 24px; opacity: 0.8}
+
+.system-table li.open .data-link { color: #293e86; border-left: 6px solid #293e86; background: #f9f9f9;
+	text-indent: 2.5em; font-weight: bold;}
+.system-table .data-submenu { display: block; font-size: .875em;}
+.system-table .data-submenu table{ margin: 2em auto; border: none; max-width: 92%;
+	border: 1px solid #dddddd; border-top: none;}
+.system-table .data-submenu table>tbody>tr>td{ padding-top: 0; padding-bottom: 0; min-width: 72px;
+	line-height: 22px; min-height: 44px; padding-top: 16px; padding-bottom: 14px;
+	font-size: 0.875em; text-align: center; vertical-align: middle;}
+
+
+
+/* 历史沿革 history */
+.history-package{ margin-bottom: 5em;}
+.data-history { margin: 1em 0 0 0; padding: 0;	list-style: none; position: relative;} 
+
+/* 历史沿革 history The line */
+.data-history:before { content: ''; position: absolute; top: 0; bottom: 0;
+	width: 4px;	background: #ececec; left: 17%; margin-left: -7px;}
+.data-history > li{ margin-bottom: 8px;}
+/* 历史沿革 history The dot */
+.data-history > li .history-dot {
+	width: 10px; height: 10px; position: relative; left: 17%; top: 26px; margin: 0 0 0 -10px;
+	background: #ffffff; box-shadow: 0 0 0 2px rgba(41,62,134,1);
+	border-radius: 50%;	-o-border-radius: 50%; -ms-border-radius: 50%;
+	-moz-border-radius: 50%; -webkit-border-radius: 50%;
+}
+
+/* 历史沿革 history The date/time */
+.data-history > li .history-time { width: 24%; padding-top: 22px; padding-right: 76px; position: absolute;
+	font-size: 0.875em;}
+.data-history > li .history-time span { display: block; color: #999999;	font-size: 1em; text-align: right;}
+
+/* 历史沿革 history Right content */
+.data-history > li .history-label {
+	position: relative; margin: 0 0 0 21%; background: #f5f5f5;
+	color: #ffffff; padding: 0.5em 1em 0.5em 1em;
+	border-radius: 6px;	-o-border-radius: 6px; -ms-border-radius: 6px;
+	-moz-border-radius: 6px; -webkit-border-radius: 6px;
+
+	/*border-right: 2px solid #293e86; */
+	/*border-bottom: 2px solid #ececec;*/
+	box-shadow: 0 2px 4px rgba(0,0,0,0);
+	-o-box-shadow: 0 2px 4px rgba(0,0,0,0);
+	-ms-box-shadow: 0 2px 4px rgba(0,0,0,0);
+	-moz-box-shadow: 0 2px 4px rgba(0,0,0,0);
+	-webkit-box-shadow: 0 2px 4px rgba(0,0,0,0);
+}
+	/* 历史沿革 history The triangle */
+.data-history > li .history-label:after {
+	right: 100%; position: absolute;
+	border: solid transparent; content: " "; height: 0; border-width: 10px; top: 10px;
+	width: 0; pointer-events: none; border-right-color: #f5f5f5;}
+.data-history > li .history-label h2 {  margin-bottom: 0px; margin-top: 0px; font-size: 1em; 
+	line-height: 42px; color: #666666; font-weight: normal;}
+.data-history > li .history-label h2 span{ color: #293e86; margin-right: 12px; margin-left: 6px;}
+.data-history > li .history-label p {  font-size: 0.75em; color: #797979; opacity: 0.8; font-weight: 100;
+	border-top: 1px solid rgba(0,0,0,0.12); line-height: 22px; padding-top: 12px; margin-top: 0;}
+
+
+/*.data-history > li:nth-child(odd) .history-time span:last-child { color: #293e86;}
+.data-history > li:nth-child(odd) .history-label { background: #3b95c9;}
+.data-history > li:nth-child(odd) .history-label:after { border-right-color: #3b95c9;}*/
+
+
+.data-history > li:hover .history-time span { color: #293e86; font-weight: bold}
+.data-history > li:hover .history-dot { box-shadow: 0 0 0 5px rgba(41,62,134,0.48);}
+.data-history > li:hover .history-label{ background: #ffffff;
+	box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+	-o-box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+	-ms-box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+	-moz-box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+	-webkit-box-shadow: 0 2px 12px rgba(0,0,0,0.18);}
+.data-history > li:hover .history-label:after{ border-right-color: #ffffff;}
+.data-history > li:hover .history-label h2{ font-weight: bold;}
+
+.data-history-rel{ margin-top: 1em;}
+.data-history-rel p{ font-size: 0.75em; color: #666666; line-height: 26px; padding-top: 1em;
+	border-top: 3px solid #293e86;}
+.data-history-rel span{ font-size: 0.75em; color: #666666; line-height: 44px; margin-bottom: 0.5em;}
+
+
+
+
+
+/* 校史资料 data-content-package  */
+.dataInfo .data-content-package{ background: #ffffff;height: auto;
+	margin-top: -60px;  position: relative;}
+.dataInfo .data-content-package .data-content{ background: #ffffff; height: 100%; position: relative;}
+
+/* 校史资料 data-content-title 模块  */
+.data-content-package .data-content hr.am-article-divider{ border-color: #aaaaaa; margin: 2.25em auto;
+	width: -webkit-calc(100% - 4em);
+	width: -moz-calc(100% - 4em);
+	width: -ms-calc(100% - 4em);
+	width: -o-calc(100% - 4em);
+	width: calc(100% - 4em);}
+.data-content-package .data-content .data-content-title{ margin: -4.5em auto 0.75em; background: #ffffff;
+		width: 40%}
+.data-content-title span{ width: 100%; display: block; text-align: center; letter-spacing: 5px; font-size: 1em;
+		color: #999999}
+.data-content-title h2{ text-align: center; font-size: 1.5em; letter-spacing: 8px; line-height: 56px; margin: 0 auto;}
+.data-content p.data-content-subTitle{ float: right; font-size: .875em; color: #999999; margin: 0 2.5em 3em 0} 
+
+/* 校史资料 data-content-table 模块  */
+.data-content-table table{ border: 1px solid #293e86;}
+.data-content-table table>tbody>tr>td{ padding-top: 0; padding-bottom: 0; min-width: 100px;}
+.data-content-table table>tbody>tr>td:first-child{ background: #293e86; color: #ffffff; font-size: 0.75em;
+	text-align: center; line-height: 44px;
+	border-top-color: #35498d;}
+.data-content-table table>tbody>tr>td:last-child{ font-size: .875em; line-height: 44px; padding-left: 1em;
+	border-top-color: #ecf0f4;}
+
+/* 校史资料 data-leader-table 模块  */
+.data-leader-table table{ border-top: 1px solid #ececec; border-top: 1px solid #ececec; border-left: none;
+	border-right: none; margin-bottom: 6em;}
+.data-leader-table table>tbody>tr>td{ padding-top: 0; padding-bottom: 0; min-width: 120px;
+	color: #333333; font-size: 1em; height: 120px; border-top-color: #ecf0f4;
+	text-align: center; line-height: 120px;}
+.data-leader-table table>tbody>tr>td a img{ border: 0px solid #ffffff; width: 88px; height: 88px;}
+.data-leader-table table>tbody>tr>td a{ color: #333333}
+.data-leader-table table>tbody>tr:hover>td a{ color: #293e86}
+.data-leader-table table>tbody>tr:hover>td a img{ border: 4px solid #ffffff}
+.data-leader-table table>tbody>tr:hover>td a:hover{ color: #293e86; font-weight: bold;}
+.data-leader-table table>tbody>tr>td,
+.data-leader-table table>tbody>tr>td a{white-space:nowrap !important;
+	word-wrap: normal; overflow: hidden; white-space: nowrap;
+ 	text-overflow: ellipsis; -o-text-overflow: ellipsis;
+ 	-ms-text-overflow: ellipsis; -moz-text-overflow: ellipsis;
+ 	-webkit-text-overflow: ellipsis;}
+/* 校史资料 data-content-article 模块  */
+.data-content-package .data-content .data-content-article{ margin: 2.5em auto;
+	padding-left: 1.5em; padding-right: 1.5em;}
+.data-content-article p{ font-size: .875em; line-height: 28px; text-indent: 2em;}
+.data-content-article li .am-gallery-item{ width: 100%; max-width: 820px; margin:16px auto;}
+.data-content-article li .am-gallery-item h3{ text-align: center;}
+
+
+
+.data-resume-info{ margin-bottom: 6em;}
+.data-resume-info .data-resume-info-title{ margin:0 auto 1.5em; height: 56px}
+.data-resume-info .data-resume-info-title h2{ font-size: 1.125em; line-height: 56px; background: #f5f5f5;
+	border-left: 6px solid #96a1c3; text-indent: 1.5em; font-weight: normal; margin: 0;}
+.data-content-package .data-content .data-resume-info .data-content-article,.data-content-rel,
+.data-content-package .data-content .identity-accordion-package{ margin-top: 1em;}
+.data-resume-info .data-content-article p{ width: 100%}
+.data-content-rel img{ width: 100%; margin: 0 auto}
+.data-content-rel .data-resume-rel-info{ padding: 0; margin-top: 2em; overflow: hidden;}
+.data-content-rel .data-resume-rel-info h3{ font-size: 0.75em; line-height: 32px; background: #f5f5f5;
+	border-left: 3px solid #96a1c3; text-indent: 1em; font-weight: normal;}
+.data-content-rel .data-resume-rel-info ul{ margin: 0;}
+.data-content-rel .data-resume-rel-info ul li{ margin-bottom: 0.5em; padding-left: 0.375em;}
+.data-content-rel .data-resume-rel-info ul li a{ font-size: 0.75em; color: #666666; line-height: 28px; }
+.data-content-rel .data-resume-rel-info ul li,
+.data-content-rel .data-resume-rel-info ul li a{ 	white-space:nowrap !important;
+	word-wrap: normal; overflow: hidden; white-space: nowrap;
+ 	text-overflow: ellipsis; -o-text-overflow: ellipsis;
+ 	-ms-text-overflow: ellipsis; -moz-text-overflow: ellipsis;
+ 	-webkit-text-overflow: ellipsis;}
+.data-content-rel .data-resume-rel-info ul li a span.am-icon-angle-right{ 
+	display: inline-block; margin-right: 0.75em; font-size: 1.125em;}
+.data-content-rel .data-resume-rel-info ul li a:hover{ color: black; }
+.data-content-rel .data-resume-rel-info ul li a:hover span{ color: black;}
+
+	/* span twinkling 闪烁效果 Start */
+	.data-content-rel .data-resume-rel-info ul li a span.am-icon-angle-right{ 
+		animation: twinkling 1.6s infinite ease-in-out ;
+		-o-animation: twinkling 1.6s infinite ease-in-out ;
+		-ms-animation: twinkling 1.6s infinite ease-in-out ;
+		-moz-animation: twinkling 1.6s infinite ease-in-out ;
+		-webkit-animation: twinkling 1.6s infinite ease-in-out ; }
+
+	.animated{ 
+		-webkit-animation-fill-mode: both; 
+		-moz-animation-fill-mode: both; 
+		-ms-animation-fill-mode: both; 
+		-o-animation-fill-mode: both; 
+		animation-fill-mode: both 
+	} 
+	@-webkit-keyframes twinkling{ 
+		0%{ opacity: 0.2;} 
+		50%{ opacity: 1;} 
+		100%{ opacity: 0.2;} 
+	} 
+	@-moz-keyframes twinkling{ 
+		0%{ opacity: 0.2;} 
+		50%{ opacity: 1;} 
+		100%{ opacity: 0.2;} 
+	} 
+	@-ms-keyframes twinkling{ 
+		0%{ opacity: 0.2;} 
+		50%{ opacity: 1;} 
+		100%{ opacity: 0.2;} 
+	} 
+	@-o-keyframes twinkling{ 
+		0%{ opacity: 0.2;} 
+		50%{ opacity: 1;} 
+		100%{ opacity: 0.2;} 
+	} 
+	@keyframes twinkling{ 
+		0%{ opacity: 0.2;} 
+		50%{ opacity: 1;} 
+		100%{ opacity: 0.2;} 
+	} 
+	/* span twinkling 闪烁效果 END */
+
+
+@media (min-width: 1201px){
+	/* 校史资料 data-accordion-package 偏移设定  */
+	.data-accordion-package{
+		margin-left: -webkit-calc(100% - 37.5em);
+		margin-left: -moz-calc(100% - 37.5em);
+		margin-left: -ms-calc(100% - 37.5em);
+		margin-left: -o-calc(100% - 37.5em);
+		margin-left: calc(100% - 37.5em);}
+	/* 校史资料 data-content 偏移设定  */
+	.dataInfo .data-content-package .data-content{
+		margin-left: -300px; max-width: 900px;}
+	/* 校史资料 data-content-table 间距对其设定  */
+	.data-content-table .data-padding-horizontal-left{ padding-right: 0;}
+	.data-content-table .data-padding-horizontal-right{ padding-left: 0;}
+	.data-content-table .data-padding-horizontal-right table>tbody>tr:last-child>td{ padding-top: 1px;}
+
+	
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px){
+	.am-topbar-inverse .am-topbar-nav>li>a{ width: 96px;}
+	/* 校史资料 data-accordion-package 偏移设定  */
+	.data-accordion-package{
+		margin-left: 0;}
+	/* 校史资料 data-content 偏移设定  */
+	.dataInfo .data-content-package{
+		max-width: -webkit-calc(100% - 18.75em);
+		max-width: -moz-calc(100% - 18.75em);
+		max-width: -ms-calc(100% - 18.75em);
+		max-width: -o-calc(100% - 18.75em);
+		max-width: calc(100% - 18.75em);
+	}
+	.dataInfo .data-content-package .data-content{
+		margin-left: -webkit-calc(18.75em - 100%);
+		margin-left: -moz-calc(18.75em - 100%);
+		margin-left: -ms-calc(18.75em - 100%);
+		margin-left: -o-calc(18.75em - 100%);
+		margin-left: calc(18.75em - 100%);}
+	/* 校史资料 data-content-table 间距对其设定  */
+	.data-content-table .data-padding-horizontal-left{ padding-right: 0;}
+	.data-content-table .data-padding-horizontal-right{ padding-left: 0;}
+}
+
+@media (min-width: 1025px){
+	.listStatus.surveyStatus{
+		background: #576773; overflow: visible;  height: 210px;
+  		max-height: 210px;
+	}
+	.listStatus.dataStatus{
+		background: #2e2f31; overflow: visible;  height: 210px;
+  		max-height: 210px;
+	}
+
+ 	/* 大屏下，隐藏状态栏里标题 */
+	.listStatus.surveyStatus.am-header h1.am-header-title,.listStatus.dataStatus.am-header h1.am-header-title{
+		 display: none;
+	}
+
+ 	/* 校史资料 栏目页标题样式 */
+	h1#header-title{
+		background: rgba(41,62,134,0.92); width: 340px; max-width: 340px; font-size: 1.375em; color: #ffffff;
+		line-height: 81px; display: block; z-index: 1; position: relative;
+		text-align: center; margin: -3em auto 0; border:none; letter-spacing: 0.5em;
+	}
+	h1#header-title:hover{
+		background: rgba(41,62,134,1);
+	}
+
+	.statusBar.surveyBar{ 
+	box-shadow: none;
+	-o-box-shadow: none;
+	-ms-box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none; border-bottom: none;
+		 z-index: 1002;}
+
+ 	/* 校史资料 列表页标题样式 */
+	.dataListMenu{ position: relative; margin: -13.125em auto 0; z-index: 1; max-height: 210px; height: 210px;}
+	.dataListMenu h1#header-title{
+		background: none; width: auto; max-width: auto;  text-align: left;
+		font-size: 2em; color: #ffffff; line-height: 108px; letter-spacing: 0.5em; text-indent: 1.625em;
+		display: block; z-index: 1; position: relative; margin: 0; 
+		border:none;
+	}
+	.dataListMenu h1#header-title:hover{
+		background: none;
+	}
+
+	/* 面包屑 导航*/
+	.dataListMenu .dataBar.am-breadcrumb{ margin-bottom: 0; margin-top: 0.5em; padding:0; z-index: -1;}
+	.dataListMenu .dataBar.am-breadcrumb li a{ color: #cccccc; line-height: 54px; cursor: pointer;
+		font-size: .875em;}
+	.dataListMenu .dataBar.am-breadcrumb li a:hover{ color: #ffffff;}
+	.dataListMenu .dataBar.am-breadcrumb li.am-active{ font-size: .875em}
+
+	/* search 搜索控件*/
+	.dataListMenu .dataSearch{ margin-top: 4em; float: right; max-width: 64%}
+	.dataListMenu .dataSearch.am-input-group-primary .am-input-group-btn>.am-btn{
+		padding: 0.5625em 1.875em; background: #1c202e; border: 1px solid #1c202e; height: 44px;}
+	.dataListMenu .dataSearch.am-input-group-primary .am-input-group-btn>.am-btn:hover{
+		background: #2e313e; border: 1px solid #2e313e;}
+	.dataListMenu .dataSearch.am-input-group-primary .am-input-group-btn>.am-btn span.am-icon-search{
+		font-size: 1.25em;}
+	.dataListMenu .dataSearch.am-input-group-primary input.am-form-field{
+		height: 44px; border:.0em solid #5a6485; text-indent: 0.5em; color: #ffffff;
+		border: 1px solid rgba(0,0,0,0.48); border-bottom: 1px solid rgba(255,255,255,0.12); 
+		background: rgba(0,0,0,0.32);}
+
+	/* WebKit browsers */
+	.dataListMenu .dataSearch.am-input-group-primary input.am-form-field::-webkit-input-placeholder {
+		/*content:"line@ \A line#";  \A 表示换行  */
+	    color:    #555555;}
+	/* Mozilla Firefox 4 to 18 */
+	.dataListMenu .dataSearch.am-input-group-primary input.am-form-field:-moz-placeholder {
+	    color:    #555555;}
+	/* Mozilla Firefox 19+ */
+	.dataListMenu .dataSearch.am-input-group-primary input.am-form-field::-moz-placeholder {
+	    color:    #555555;}
+	/* Internet Explorer 10+ */
+	.dataListMenu .dataSearch.am-input-group-primary input.am-form-field:-ms-input-placeholder {
+	    color:    #555555;}
+	.dataListMenu .dataSearch.am-input-group-primary input.am-form-field:focus{
+		background: rgba(0,0,0,0.56);
+	}
+
+
+}
+
+@media (max-width: 1024px){	
+
+	/* 校史资料 data-accordion-package 移动端设定  */
+	.data-accordion-package{ display: none;}
+
+	/* 校史资料 data-content 移动端设定  */
+	.dataInfo .data-content-package{ width: 100%; margin-top: 32px; background: #f5f5f5;}
+
+	.dataInfo .data-content-package .data-content{ background: #f5f5f5; margin-left: 0;}
+
+	/* 校史资料 data-content-title 标题字号调整  */
+	.data-content-package .data-content .data-content-title{ background: #f5f5f5; width: 48%;
+		margin: -4.5em auto 0.625em;}
+	.data-content-package .data-content hr.am-article-divider{
+		width: -webkit-calc(100% - 2em);
+		width: -moz-calc(100% - 2em);
+		width: -ms-calc(100% - 2em);
+		width: -o-calc(100% - 2em);
+		width: calc(100% - 2em);}
+	.data-content-title span{ letter-spacing: 4px; font-size: 0.875em;}
+	.data-content-title h2{ font-size: 1.25em; letter-spacing: 8px;}
+	.data-content p.data-content-subTitle{ font-size: .75em; margin: 0 2em 3em 0} 
+
+	.data-content-rel .data-resume-rel-info h3{ background: #fbfbfb;}
+
+
+
+	.identity-accordion-package{ min-height: auto;}
+	.identity-accordion .data-link{ background: #fbfbfb; font-size: 1em; text-indent: 1em;
+		letter-spacing: 1px; }
+	.identity-accordion .data-link:hover{ background: #ffffff; text-indent: 1.625em;}
+	.identity-accordion li.open .data-link { background: #ffffff; text-indent: 1.5em;}
+
+	.power-accordion-package{ min-height: auto;}
+	.power-accordion .data-link{ font-size: 1em; line-height: 56px; background: #fbfbfb;
+		text-indent: 1em; margin: 0; letter-spacing: 1px;}
+	.power-accordion .data-link:hover{ background: #ffffff; text-indent: 1.625em;}
+	.power-accordion .data-submenu table{ max-width: 98%;}
+	.power-accordion li.open .data-link { background: #ffffff; text-indent: 1.5em;}
+
+	/* 历史沿革 history Right content */
+	.data-history > li .history-label {
+		background: #ffffff;
+		box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+		-o-box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+		-ms-box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+		-moz-box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+		-webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+	}
+		/* 历史沿革 history The triangle */
+	.data-history > li .history-label:after {
+		border-right-color: #ffffff;}
+
+
+
+}
+
+
+@media only screen and (min-width: 641px) and (max-width: 1024px){
+	#mobile-subNav.am-menu-slide1 .am-menu-nav li.am-parent,#mobile-subNav.am-menu-slide1 .am-menu-nav li.sub-align{
+		margin: auto 4px;}
+
+	/* 校史资料 data-content-table 间距对其设定  */
+	.data-content-table .data-padding-horizontal-left{ padding-right: 0;}
+	.data-content-table .data-padding-horizontal-right{ padding-left: 0;}
+	.data-content-table .data-padding-horizontal-right table>tbody>tr:last-child>td{ padding-top: 1px;}
+
+	.data-content-table table>tbody>tr>td:first-child{ max-width: 20%; width: 20%}
+}
+
+
+
+@media (max-width: 640px){
+	.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit a.mainTitle{ 
+		font-size: 1.125em; line-height: 3em;}
+	.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit div.subTitle{ 
+		font-size: .875em;}
+	.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit div.subTitle,
+	.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit p.subTitle{ 
+		height: auto; max-height: auto; margin-bottom: 1.5em;}
+
+	.data-content-table table>tbody>tr>td:first-child{ max-width: 25%; width: 25%; overflow: hidden;}
+
+	/* 校史资料 data-content-title 标题字号调整  */
+	.dataInfo .data-content-package{ margin-top: 1em;}
+	.data-content-package .data-content .data-content-title{ width: 60%}
+	.data-content-package .data-content hr.am-article-divider{
+		width: -webkit-calc(100% - 1.75em);
+		width: -moz-calc(100% - 1.75em);
+		width: -ms-calc(100% - 1.75em);
+		width: -o-calc(100% - 1.75em);
+		width: calc(100% - 1.75em);}
+	.data-content-title span{ letter-spacing: 3px; font-size: 0.875em;}
+	.data-content-title h2{ font-size: 1.25em; letter-spacing: 8px;}
+	.data-content p.data-content-subTitle{ font-size: .75em; margin: 0 1.5em 3em 0} 
+	.data-content-rel{ width: 100%; max-width: 100%}
+	.data-content-rel img{ width: 228px; max-width: 228px;
+		position: relative; left: 50%;
+	    -webkit-transform: translateX(-50%) translateY(0);
+	    -moz-transform: translateX(-50%) translateY(0);
+	    -o-transform: translateX(-50%) translateY(0);
+	    -ms-transform: translateX(-50%) translateY(0);
+	    transform: translateX(-50%) translateY(0);}
+
+
+	.data-content-rel .data-resume-rel-info{ padding-bottom: 1em; margin-top: 2em; overflow: hidden;
+		background: #ffffff;
+		box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-o-box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-ms-box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.12);}
+	.data-content-rel .data-resume-rel-info:hover{ 
+		box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+		-o-box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+		-ms-box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+		-moz-box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+		-webkit-box-shadow: 0 2px 12px rgba(0,0,0,0.18);}
+	.data-content-rel .data-resume-rel-info h3{ font-size: 1em; line-height: 48px;
+		border-left: 4px solid #96a1c3; font-weight: normal; color: #666666;}
+	.data-content-rel .data-resume-rel-info ul{ margin: 0;}
+	.data-content-rel .data-resume-rel-info ul li{ margin-bottom: 0em; padding-left: 1em; padding-right: 1em;}
+	.data-content-rel .data-resume-rel-info ul li a{ font-size: 0.875em; color: #333333; line-height: 44px; }
+	.data-content-rel .data-resume-rel-info ul li a span.am-icon-angle-right{ 
+		display: inline-block; margin-right: 0.75em; font-size: 1.125em;}
+
+
+
+	.system-table .data-link{ text-indent: 1em;}
+	.system-table .data-link span{ margin-right: 12px;}
+	.system-table .data-link:hover{ text-indent: 1.5em;}
+	.system-table .data-link:hover span{ margin-right: 16px; opacity: 0.8}
+
+
+
+
+	/* 历史沿革 history */
+	.history-package{ margin-bottom: 5em;}
+	.data-history { margin: 1em 0 0 0; padding: 0;	list-style: none; position: relative;} 
+
+	/* 历史沿革 history The line */
+	.data-history:before { content: ''; position: absolute; top: 0; bottom: 0;
+		width: 4px;	background: #ececec; left: 20%; margin-left: -7px;}
+	.data-history > li{ margin-bottom: 8px;}
+	/* 历史沿革 history The dot */
+	.data-history > li .history-dot {
+		width: 10px; height: 10px; position: relative; left: 20%; top: 26px; margin: 0 0 0 -10px;
+		background: #ffffff; box-shadow: 0 0 0 2px rgba(41,62,134,1);
+		border-radius: 50%;	-o-border-radius: 50%; -ms-border-radius: 50%;
+		-moz-border-radius: 50%; -webkit-border-radius: 50%;
+	}
+
+	/* 历史沿革 history The date/time */
+	.data-history > li .history-time { width: 28%; padding-top: 22px; padding-right: 76px; position: absolute;
+		font-size: 0.875em;}
+	.data-history > li .history-time span { display: block; color: #999999;	font-size: 1em; text-align: right;}
+
+	/* 历史沿革 history Right content */
+	.data-history > li .history-label { margin: 0 0 0 25%;}
+		/* 历史沿革 history The triangle */
+	.data-history > li .history-label:after {
+		right: 100%; position: absolute;
+		border: solid transparent; content: " "; height: 0; border-width: 10px; top: 10px;
+		width: 0; pointer-events: none; border-right-color: #ffffff;}
+	.data-history > li .history-label h2 {  margin-bottom: 0px; margin-top: 0px; font-size: 1em; 
+		line-height: 42px; color: #666666}
+	.data-history > li .history-label h2 span{ color: #293e86; margin-right: 12px; margin-left: 6px;}
+	.data-history > li .history-label p {  font-size: 0.75em; color: #797979; opacity: 0.8; font-weight: 100;
+		border-top: 1px solid rgba(0,0,0,0.12); line-height: 22px; padding-top: 12px; margin-top: 0;}
+
+	.data-history:before {
+		display: none;
+	}
+
+	.data-history > li .history-time {
+		width: 100%; 
+		position: relative; text-indent: 3.5em;
+		padding: 0 0 32px 0;
+	}
+
+	.data-history > li .history-time span {
+		text-align: left; line-height: 48px; font-size: 1em; font-weight: bold;
+	}
+
+	.data-history > li .history-label {
+		margin: 0 0 30px 0;
+		padding: 1em;
+		font-weight: 400;
+		font-size: 95%;
+	}
+
+	.data-history > li .history-label:after {
+		right: auto;
+		left: 20px;
+		border-right-color: transparent;
+		border-bottom-color: #ffffff;
+		top: -20px;
+	}
+
+	.data-history > li:hover .history-label:after{ border-right-color: transparent;}
+	.data-history > li .history-dot {
+		position: relative; box-shadow: 0 0 0 2px #999999;
+		float: left;
+		left: auto;
+		margin: -55px 5px 0 24px;
+	}	
+
+	.data-history-rel img{ width: 228px; max-width: 228px; display: block;
+		position: relative; left: 50%;
+	    -webkit-transform: translateX(-50%) translateY(0);
+	    -moz-transform: translateX(-50%) translateY(0);
+	    -o-transform: translateX(-50%) translateY(0);
+	    -ms-transform: translateX(-50%) translateY(0);
+	    transform: translateX(-50%) translateY(0);}
+	.data-history-rel span{ text-align: center; width: 100%; display: block}
+
+}
+
+
+@media (max-width: 480px){
+	.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit a.mainTitle{ 
+		font-size: 1em;}
+	.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit div.subTitle{ 
+		font-size: .75em;}
+	.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit div.subTitle ul.am-avg-sm-2 li{
+		text-indent: 0.75em;
+	}
+
+	/* 校史资料 data-content-title 标题字号调整  */
+	.data-content-package .data-content .data-content-title{ width: 64%}
+	.data-content-package .data-content hr.am-article-divider{
+		width: -webkit-calc(100% - 1.5em);
+		width: -moz-calc(100% - 1.5em);
+		width: -ms-calc(100% - 1.5em);
+		width: -o-calc(100% - 1.5em);
+		width: calc(100% - 1.5em);}
+	.data-content-title span{ letter-spacing: 3px; font-size: 0.75em;}
+	.data-content-title h2{ font-size: 1.125em; letter-spacing: 6px;}
+	.data-content p.data-content-subTitle{ font-size: .625em; margin: 0em 0.75em 3em 0} 
+
+	.data-resume-info .data-resume-rel-info ul li{ padding-left: 0.75em; padding-right: 0.75em;}
+
+	/* 校史资料 data-leader-table 模块  */
+	.data-leader-table table>tbody>tr>td{ min-width: 120px; font-size:0.875em; padding: 0; }
+	.data-leader-table table>tbody>tr>td:first-child{ width: 120px; max-width: 30%;}
+	.data-leader-table table>tbody>tr>td:last-child{ width: 50%; max-width: 55%;}
+	.data-leader-table table>tbody>tr>td a img{ width: 80px; height: 80px;}
+}
+
+@media (max-width: 460px){
+
+	.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit div.subTitle,
+	.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit p.subTitle{ 
+		margin-bottom: 1em;}
+	.listNews.dataCard ul.am-avg-lg-3 li .list-card .list-tit div.subTitle ul.am-avg-sm-2 li{
+		text-indent: 0.5em;
+	}
+	/* 校史资料 data-content-title 标题字号调整  */
+	.dataInfo .data-content-package{ margin-top: 0.75em;}
+	.data-content-package .data-content .data-content-title{ margin: 0 auto 0; width: 64%}
+	.data-content-package .data-content hr.am-article-divider{ display: none;}
+	.data-content p.data-content-subTitle{ 
+	 width: 92%; display: block;
+	 font-size: .625em; float: none; text-align: center;
+	 margin: 0 auto 3em; border-top: 1px solid #e5e5e5; padding-top:1em;}
+
+	/* 校史资料 data-leader-table 模块  */
+	.data-leader-table table>tbody>tr>td{ min-width: 96px;}
+	.data-leader-table table>tbody>tr>td a img{ width: 72px; height: 72px;}
+	.data-leader-table table>tbody>tr>td:last-child{ width: 55%; max-width: 55%;}
+}
+
+
+
+@media (max-width: 420px){
+
+	.data-resume-info .data-resume-rel-info{ padding-bottom: 0.75em;
+		background: #ffffff;
+		box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-o-box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-ms-box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.12);}
+	.data-resume-info .data-resume-rel-info h3{ font-size: 0.875em; line-height: 48px;
+		border-left: 4px solid #96a1c3; font-weight: normal; color: #666666; margin-bottom: 0.75em;}
+	.data-resume-info .data-resume-rel-info ul{ margin: 0;}
+	.data-resume-info .data-resume-rel-info ul li a{ font-size: 0.75em; color: #333333; line-height: 38px; }
+	.data-resume-info .data-resume-rel-info ul li a span.am-icon-angle-right{ 
+		display: inline-block; margin-right: 0.625em; font-size: 1.125em;}
+
+	.data-resume-info{ margin-bottom: 5em;}
+	/* 校史资料 data-leader-table 模块  */
+	.data-leader-table table{ margin-bottom: 5em;}
+	.data-leader-table table>tbody>tr:hover>td a img{ border: 3px solid #ffffff}
+	.data-leader-table table>tbody>tr>td a img{ width: 64px; height: 64px;}
+	.data-leader-table table>tbody>tr>td{ width: 22.5%; max-width: 22.5%; min-width: 22.5%;
+		height: 102px; line-height: 102px}
+	.data-leader-table table>tbody>tr>td:first-child{ width: 25%; max-width: 25%;}
+	.data-leader-table table>tbody>tr>td:last-child{ width: 52.5%; max-width: 52.5%;}
+
+
+	.identity-accordion .data-link{ font-size: 0.875em; }
+	.power-accordion .data-link{ font-size: 0.875em; }
+
+
+	.system-table .data-link{ font-size: 0.875em;}
+	.system-table .data-link span{ font-size: 0.75em; float: right;}
+	.system-table .data-submenu table>tbody>tr>td{ font-size: 0.75em;}
+}
+
+
+@media (max-width: 360px){
+
+	.data-content-table table>tbody>tr>td:first-child{ max-width: 30%; width: 30%; overflow: hidden;}
+	/* 校史资料 data-content-title 标题字号调整  */
+	.data-content-title span{ letter-spacing: 3px; font-size: 0.75em;}
+	.data-content-title h2{ font-size: 1.125em; letter-spacing: 6px; line-height: 44px; }
+
+	.data-resume-info .data-resume-rel-info{ padding-bottom: 0.75em;
+		background: #ffffff;
+		box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-o-box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-ms-box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.12);
+		-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.12);}
+	.data-resume-info .data-resume-rel-info h3{ font-size: 0.875em; line-height: 44px;
+		border-left: 4px solid #96a1c3; font-weight: normal; color: #666666; margin-bottom: 0.75em;}
+	.data-resume-info .data-resume-rel-info ul{ margin: 0;}
+	.data-resume-info .data-resume-rel-info ul li a{ font-size: 0.75em; color: #333333; line-height: 38px; }
+	.data-resume-info .data-resume-rel-info ul li a span.am-icon-angle-right{ 
+		display: inline-block; margin-right: 0.5em; font-size: 1.125em;}
+
+	.data-resume-info{ margin-bottom: 4em;}
+
+	.identity-accordion .data-link{ font-size: 0.875em; }
+	.power-accordion .data-link{ font-size: 0.875em; }
+
+	.system-table .data-link{ font-size: 0.875em;}
+	.system-table .data-link span{ font-size: 0.625em; float: right;}
+	.system-table .data-submenu table>tbody>tr>td{ font-size: 0.75em;}
+
+	/* 校史资料 data-leader-table 模块  */
+	.data-leader-table table{ margin-bottom: 4em;}
+	.data-leader-table table>tbody>tr:hover>td a img{ border: 2px solid #ffffff}
+	.data-leader-table table>tbody>tr>td{ height: 96px; line-height: 96px}
+	.data-leader-table table>tbody>tr>td a img{ width: 56px; height: 56px;}
+}
+
+
+@media (max-width: 320px){
+
+	.data-content-table table>tbody>tr>td:first-child{ max-width: 35%; width: 35%; overflow: hidden;}
+
+	/* 校史资料 data-leader-table 模块  */
+	.data-leader-table table>tbody>tr>td{ height: 88px; line-height: 88px}
+	.data-leader-table table>tbody>tr>td:last-child{ font-size: 0.75em;}
+	.data-leader-table table>tbody>tr>td a img{ width: 48px; height: 48px;}
+}
+

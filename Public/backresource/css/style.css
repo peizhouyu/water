@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+.member-avatar{ max-width: 80px; max-height: 80px; border-radius: 50%;}
+.member-area #container1,.member-area #container2{ border: 5px solid #ececec;}
+.login-logo{
+	margin:5em auto;
+	max-height: 131px;
+	max-width: 571px;
+	position: absolute;
+	top: 4em;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.login-copyright{
+	position: absolute;
+	bottom: 2em;
+	text-align: center; color: #ffffff;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+	text-shadow: 0 1px 3px rgba(0,0,0,0.4);
+}
+
+.loginIn a{ display: inline-block; float: left;}
+
+

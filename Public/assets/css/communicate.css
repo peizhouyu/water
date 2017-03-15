@@ -1,0 +1,14 @@
+.listNews.meetCard{
+	height: auto;
+}
+.listNews.projectCard{
+	background: none;
+}
+.listNews.projectCard .list-padding-horizontal-xs{
+	margin-top: 2.75em;
+}
+@media (max-width: 480px) {
+	.am-avg-sm-2>li{
+		width: 100%;
+	}
+}

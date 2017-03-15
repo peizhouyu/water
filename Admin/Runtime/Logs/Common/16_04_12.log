@@ -1,0 +1,72 @@
+[ 2016-04-12T19:15:47+08:00 ] ::1 /develop/water/admin.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+ERR: 无法加载模块:Login
+
+[ 2016-04-12T19:16:01+08:00 ] ::1 /develop/water/admin.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-12T19:16:06+08:00 ] ::1 /develop/water/admin.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-12T19:16:14+08:00 ] ::1 /develop/water/admin.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-12T19:16:15+08:00 ] ::1 /develop/water/admin.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-12T19:16:16+08:00 ] ::1 /develop/water/admin.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-12T19:16:16+08:00 ] ::1 /develop/water/admin.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-12T19:16:17+08:00 ] ::1 /develop/water/admin.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-12T19:16:18+08:00 ] ::1 /develop/water/admin.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001526s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-12T19:16:19+08:00 ] ::1 /develop/water/admin.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002328s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-12T19:16:19+08:00 ] ::1 /develop/water/admin.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-12T19:16:20+08:00 ] ::1 /develop/water/admin.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001978s ]
+ERR: 无法加载模块:Index
+

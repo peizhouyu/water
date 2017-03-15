@@ -1,0 +1,3125 @@
+[ 2016-04-27T00:08:38+08:00 ] ::1 /develop/water/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001862s ]
+
+[ 2016-04-27T00:08:38+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002406s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001558s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001375s ]
+
+[ 2016-04-27T00:08:38+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001863s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021368s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001942s ]
+
+[ 2016-04-27T00:08:38+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001978s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001822s ]
+
+[ 2016-04-27T00:08:38+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003523s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022573s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001899s ]
+
+[ 2016-04-27T00:08:39+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002060s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016299s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001406s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001495s ]
+
+[ 2016-04-27T00:08:39+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001956s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001331s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2016-04-27T00:08:47+08:00 ] ::1 /develop/water/admin.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001260s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `user` WHERE `name` = 'root' AND `password` = 'root' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012275s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012370s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001678s ]
+
+[ 2016-04-27T00:08:48+08:00 ] ::1 /develop/water/admin.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001412s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\xampp\htdocs\develop\water\Admin\Home\Controller\IndexController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000200s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000393s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017159s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017258s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002407s ]
+
+[ 2016-04-27T00:08:49+08:00 ] ::1 /develop/water/admin.php/Home/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001912s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000307s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000458s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029881s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001845s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001941s ]
+
+[ 2016-04-27T00:08:49+08:00 ] ::1 /develop/water/admin.php/Home/Index/skin/default/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001735s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001854s ]
+
+[ 2016-04-27T00:08:49+08:00 ] ::1 /develop/water/admin.php/Home/Index/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001355s ]
+
+[ 2016-04-27T00:08:51+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002249s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 88 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001907s ]
+
+[ 2016-04-27T00:08:51+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002320s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T00:09:05+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 109 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0037s ]
+SQL: INSERT INTO `productshow_content` (`title`,`source`,`author`,`img_url`,`time`,`info`,`content`,`type`,`type_value`) VALUES ('aSA','SASA','','../../../Public/upload/productshow/310782-106.jpg','','ASASAS','SAS','fangzaijianzai','防灾减灾') [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001397s ]
+
+[ 2016-04-27T00:09:06+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001825s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'fangzaijianzai' ORDER BY id desc  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'fangzaijianzai' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000160s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018935s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002311s ]
+
+[ 2016-04-27T00:09:10+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001835s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 88 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015287s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001376s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002220s ]
+
+[ 2016-04-27T00:09:10+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001436s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T00:09:17+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001826s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 109 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 114 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0051s ]
+SQL: INSERT INTO `productshow_content` (`title`,`source`,`author`,`img_url`,`time`,`info`,`content`,`type`,`type_value`) VALUES ('sASA','SA','','../../../Public/upload/productshow/311108-106.jpg','','SASA','ASASA','nongtianshuili','农田水利') [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014405s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001675s ]
+
+[ 2016-04-27T00:09:18+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002100s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'nongtianshuili' ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'nongtianshuili' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015982s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001416s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001992s ]
+
+[ 2016-04-27T00:09:19+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001738s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 88 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014791s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001469s ]
+
+[ 2016-04-27T00:09:19+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002974s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T00:09:28+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001819s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 109 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 114 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 119 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0043s ]
+SQL: INSERT INTO `productshow_content` (`title`,`source`,`author`,`img_url`,`time`,`info`,`content`,`type`,`type_value`) VALUES ('SASA','SAS','','../../../Public/upload/productshow/85710-106.jpg','','SASA','SAS','shuiligongcheng','水利工程') [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001859s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001943s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001631s ]
+
+[ 2016-04-27T00:09:29+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002427s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'shuiligongcheng' ORDER BY id desc  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'shuiligongcheng' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002139s ]
+
+[ 2016-04-27T00:09:33+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList.html?type=nongtianshuili
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001948s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'nongtianshuili' ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'nongtianshuili' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018451s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001936s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002046s ]
+
+[ 2016-04-27T00:09:34+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList.html?type=anquanyinshui
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001528s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'anquanyinshui' ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'anquanyinshui' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001779s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002323s ]
+
+[ 2016-04-27T00:09:36+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList.html?type=shuiziyuankaifa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001695s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'shuiziyuankaifa' ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'shuiziyuankaifa' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017733s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001880s ]
+
+[ 2016-04-27T00:09:37+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList.html?type=shuilixinxihua
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001928s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 53 行.
+NOTIC: [8] Use of undefined constant shuishengtai - assumed 'shuishengtai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant shuilixinxihua - assumed 'shuilixinxihua' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 59 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'shuilixinxihua' ORDER BY id desc  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'shuilixinxihua' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017653s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001977s ]
+
+[ 2016-04-27T00:09:39+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 88 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000185s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001467s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001745s ]
+
+[ 2016-04-27T00:09:39+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001963s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T00:09:48+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 109 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 114 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 119 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 124 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0129s ]
+SQL: INSERT INTO `productshow_content` (`title`,`source`,`author`,`img_url`,`time`,`info`,`content`,`type`,`type_value`) VALUES ('aSA','SA','','../../../Public/upload/productshow/311108-106.jpg','','ASAS','ASAS','anquanyinshui','农村安全饮水') [ RunTime:0.0108s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001908s ]
+
+[ 2016-04-27T00:09:49+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'anquanyinshui' ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'anquanyinshui' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001707s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003259s ]
+
+[ 2016-04-27T00:09:52+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001745s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 88 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002696s ]
+
+[ 2016-04-27T00:09:52+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002115s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T00:09:59+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 109 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 114 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 119 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 124 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0039s ]
+SQL: INSERT INTO `productshow_content` (`title`,`source`,`author`,`img_url`,`time`,`info`,`content`,`type`,`type_value`) VALUES ('sASA','SA','','../../../Public/upload/productshow/311121-106.jpg','','SASA','ASAS','shuiziyuankaifa','水资源开发与节约保护') [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013155s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001792s ]
+
+[ 2016-04-27T00:10:00+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'shuiziyuankaifa' ORDER BY id desc  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'shuiziyuankaifa' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002057s ]
+
+[ 2016-04-27T00:10:03+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002044s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 88 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015157s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001834s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001908s ]
+
+[ 2016-04-27T00:10:03+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003313s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T00:10:13+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001602s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 109 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 114 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 119 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 124 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 129 行.
+NOTIC: [8] Use of undefined constant shuishengtai - assumed 'shuishengtai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 134 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0036s ]
+SQL: INSERT INTO `productshow_content` (`title`,`source`,`author`,`img_url`,`time`,`info`,`content`,`type`,`type_value`) VALUES ('SAS','AS','','../../../Public/upload/productshow/85710-106.jpg','','SAS','ASAS','shuishengtai','水生态与水环境') [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001821s ]
+
+[ 2016-04-27T00:10:14+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001502s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 53 行.
+NOTIC: [8] Use of undefined constant shuishengtai - assumed 'shuishengtai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'shuishengtai' ORDER BY id desc  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'shuishengtai' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016140s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002974s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003103s ]
+
+[ 2016-04-27T00:10:16+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001692s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 88 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013819s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001341s ]
+
+[ 2016-04-27T00:10:16+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003351s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T00:10:26+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001940s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 109 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 114 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 119 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 124 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 129 行.
+NOTIC: [8] Use of undefined constant shuishengtai - assumed 'shuishengtai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 134 行.
+NOTIC: [8] Use of undefined constant shuilixinxihua - assumed 'shuilixinxihua' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 139 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0040s ]
+SQL: INSERT INTO `productshow_content` (`title`,`source`,`author`,`img_url`,`time`,`info`,`content`,`type`,`type_value`) VALUES ('SAS','AS','','../../../Public/upload/productshow/316110-106.jpg','','SASA','ASASA','shuilixinxihua','水利信息化') [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013847s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001694s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001922s ]
+
+[ 2016-04-27T00:10:28+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001665s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 53 行.
+NOTIC: [8] Use of undefined constant shuishengtai - assumed 'shuishengtai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant shuilixinxihua - assumed 'shuilixinxihua' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 59 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'shuilixinxihua' ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'shuilixinxihua' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016542s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001956s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002058s ]
+
+[ 2016-04-27T00:10:31+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList.html?type=shuiliguanli
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 53 行.
+NOTIC: [8] Use of undefined constant shuishengtai - assumed 'shuishengtai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant shuilixinxihua - assumed 'shuilixinxihua' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 59 行.
+NOTIC: [8] Use of undefined constant shuiliguanli - assumed 'shuiliguanli' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 62 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'shuiliguanli' ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'shuiliguanli' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001892s ]
+
+[ 2016-04-27T00:10:32+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002084s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 88 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016517s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001883s ]
+
+[ 2016-04-27T00:10:32+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002634s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T00:10:41+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001857s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 109 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 114 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 119 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 124 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 129 行.
+NOTIC: [8] Use of undefined constant shuishengtai - assumed 'shuishengtai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 134 行.
+NOTIC: [8] Use of undefined constant shuilixinxihua - assumed 'shuilixinxihua' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 139 行.
+NOTIC: [8] Use of undefined constant shuiliguanli - assumed 'shuiliguanli' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 144 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0039s ]
+SQL: INSERT INTO `productshow_content` (`title`,`source`,`author`,`img_url`,`time`,`info`,`content`,`type`,`type_value`) VALUES ('SAS','AS','','../../../Public/upload/productshow/293451-106.jpg','','SAS','ASAS','shuiliguanli','水利管理及其他') [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001509s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002017s ]
+
+[ 2016-04-27T00:10:42+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001692s ]
+NOTIC: [8] Use of undefined constant fangzaijianzai - assumed 'fangzaijianzai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant nongtianshuili - assumed 'nongtianshuili' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant shuiligongcheng - assumed 'shuiligongcheng' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant anquanyinshui - assumed 'anquanyinshui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant shuiziyuankaifa - assumed 'shuiziyuankaifa' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 53 行.
+NOTIC: [8] Use of undefined constant shuishengtai - assumed 'shuishengtai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant shuilixinxihua - assumed 'shuilixinxihua' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 59 行.
+NOTIC: [8] Use of undefined constant shuiliguanli - assumed 'shuiliguanli' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ProductShowController.class.php 第 62 行.
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `productshow_content` WHERE `type` = 'shuiliguanli' ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` WHERE `type` = 'shuiliguanli' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001784s ]
+
+[ 2016-04-27T08:38:22+08:00 ] ::1 /develop/water/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001377s ]
+
+[ 2016-04-27T08:38:22+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2016-04-27T08:38:22+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013513s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001241s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001675s ]
+
+[ 2016-04-27T08:38:22+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001532s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011829s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011913s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001222s ]
+
+[ 2016-04-27T08:38:22+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001507s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001603s ]
+
+[ 2016-04-27T08:38:23+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-04-27T08:38:23+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000780s ]
+
+[ 2016-04-27T08:38:28+08:00 ] ::1 /develop/water/admin.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007248s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007299s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000563s ]
+
+[ 2016-04-27T08:38:31+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-04-27T08:38:31+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006266s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001039s ]
+
+[ 2016-04-27T08:38:34+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000857s ]
+
+[ 2016-04-27T08:38:34+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002649s ]
+
+[ 2016-04-27T08:38:34+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001694s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014195s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001817s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002204s ]
+
+[ 2016-04-27T08:38:34+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001525s ]
+
+[ 2016-04-27T08:38:35+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009159s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-04-27T08:38:35+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008360s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008448s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-04-27T08:38:44+08:00 ] ::1 /develop/water/admin.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+
+[ 2016-04-27T08:38:48+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006774s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2016-04-27T08:38:48+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2016-04-27T08:38:49+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006486s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2016-04-27T08:38:49+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001807s ]
+
+[ 2016-04-27T08:38:49+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003840s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003183s ]
+
+[ 2016-04-27T08:38:49+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002324s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016477s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001958s ]
+
+[ 2016-04-27T08:38:49+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001265s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-04-27T08:38:49+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008053s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-04-27T08:38:52+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001258s ]
+
+[ 2016-04-27T08:38:52+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001199s ]
+
+[ 2016-04-27T08:38:52+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001880s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011063s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002470s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001507s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001637s ]
+
+[ 2016-04-27T08:38:52+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002864s ]
+
+[ 2016-04-27T08:38:53+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007155s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-04-27T08:38:53+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009308s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2016-04-27T08:38:55+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006665s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-04-27T08:38:55+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009709s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001099s ]
+
+[ 2016-04-27T08:38:55+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001320s ]
+
+[ 2016-04-27T08:38:55+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002672s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003519s ]
+
+[ 2016-04-27T08:38:55+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006452s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-04-27T08:38:55+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000917s ]
+
+[ 2016-04-27T08:38:59+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002356s ]
+
+[ 2016-04-27T08:38:59+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007418s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2016-04-27T08:38:59+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001236s ]
+
+[ 2016-04-27T08:39:01+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-04-27T08:39:01+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000258s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2016-04-27T08:39:01+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002100s ]
+
+[ 2016-04-27T08:39:01+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000357s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002154s ]
+
+[ 2016-04-27T08:39:01+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000933s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000986s ]
+
+[ 2016-04-27T08:39:01+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008124s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-04-27T08:39:07+08:00 ] ::1 /develop/water/admin.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `user` WHERE `name` = 'root' AND `password` = 'root' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2016-04-27T08:39:08+08:00 ] ::1 /develop/water/admin.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\xampp\htdocs\develop\water\Admin\Home\Controller\IndexController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000886s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002130s ]
+
+[ 2016-04-27T08:39:08+08:00 ] ::1 /develop/water/admin.php/Home/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001236s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000257s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000429s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001537s ]
+
+[ 2016-04-27T08:39:08+08:00 ] ::1 /develop/water/admin.php/Home/Index/skin/default/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2016-04-27T08:39:09+08:00 ] ::1 /develop/water/admin.php/Home/Index/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+
+[ 2016-04-27T09:16:19+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/BusinessShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_index` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `websitebusiness_index`  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `websitebusiness_content` ORDER BY id desc  [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `websitebusiness_content` LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\0ce2c9492301ef87f53b06195186c77d.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013661s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001944s ]
+
+[ 2016-04-27T09:16:20+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/BusinessAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_index` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `websitebusiness_index`  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 81 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012249s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001232s ]
+
+[ 2016-04-27T09:16:20+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T09:16:21+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/BusinessShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+NOTIC: [8] Use of undefined constant tuijiehui - assumed 'tuijiehui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant shuilituiguang - assumed 'shuilituiguang' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant dianxingxiangm - assumed 'dianxingxiangm' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'shuiligongcheng' ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `websitebusiness_content` WHERE `type` = 'shuiligongcheng' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_index` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `websitebusiness_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\0ce2c9492301ef87f53b06195186c77d.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001146s ]
+
+[ 2016-04-27T09:16:22+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/BusinessAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_index` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `websitebusiness_index`  [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 81 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001170s ]
+
+[ 2016-04-27T09:16:22+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002438s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T09:17:28+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/BusinessAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_index` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `websitebusiness_index`  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 81 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012915s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001466s ]
+
+[ 2016-04-27T09:17:28+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001269s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T09:17:39+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/BusinessAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+NOTIC: [8] Use of undefined constant tuijiehui - assumed 'tuijiehui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 104 行.
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 109 行.
+NOTIC: [8] Use of undefined constant shuilituiguang - assumed 'shuilituiguang' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 114 行.
+NOTIC: [8] Use of undefined constant dianxingxiangmu - assumed 'dianxingxiangmu' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 119 行.
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0044s ]
+SQL: INSERT INTO `websitebusiness_content` (`title`,`source`,`author`,`img_url`,`time`,`info`,`content`,`himg_url`,`type`,`type_value`) VALUES ('pei','sad','','../../../Public/upload/websitebusiness/237919-106.jpg','','sad','','Public/upload/websitebusiness/237919-106.jpg','dianxingxiangmu','典型项目') [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010485s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000895s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001121s ]
+
+[ 2016-04-27T09:17:40+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/BusinessShowList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+NOTIC: [8] Use of undefined constant tuijiehui - assumed 'tuijiehui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant shuilituiguang - assumed 'shuilituiguang' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant dianxingxiangm - assumed 'dianxingxiangm' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'dianxingxiangmu' ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `websitebusiness_content` WHERE `type` = 'dianxingxiangmu' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_index` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `websitebusiness_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\0ce2c9492301ef87f53b06195186c77d.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012145s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2016-04-27T09:23:50+08:00 ] ::1 /develop/water/admin.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\xampp\htdocs\develop\water\Admin\Home\Controller\IndexController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012239s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003089s ]
+
+[ 2016-04-27T09:23:50+08:00 ] ::1 /develop/water/admin.php/Home/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001986s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000286s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003529s ]
+
+[ 2016-04-27T09:23:51+08:00 ] ::1 /develop/water/admin.php/Home/Index/skin/default/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001932s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001988s ]
+
+[ 2016-04-27T09:24:26+08:00 ] ::1 /develop/water/admin.php/Home/ProductShow/ProductShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+SQL: SHOW COLUMNS FROM `productshow_index` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `productshow_index`  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `productshow_content` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `productshow_content` ORDER BY id desc  [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `productshow_content` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+NOTIC: [4096] Object of class Think\Page could not be converted to string D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\bab6ac7f7cdf2ae3243740405d6d1b26.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014905s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001892s ]
+
+[ 2016-04-27T09:24:36+08:00 ] ::1 /develop/water/admin.php/Home/Policies/policiesShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+SQL: SHOW COLUMNS FROM `policies_index` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `policies_index`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `policies_content` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `policies_content` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `policies_content` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\cd7ef5c6ae0d0dc7baba62fee40e9430.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002901s ]
+
+[ 2016-04-27T09:24:46+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/BusinessShowList.html?type=guojia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+NOTIC: [8] Use of undefined constant tuijiehui - assumed 'tuijiehui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant shuilituiguang - assumed 'shuilituiguang' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant dianxingxiangm - assumed 'dianxingxiangm' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'guojia' ORDER BY id desc  [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `websitebusiness_content` WHERE `type` = 'guojia' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_index` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `websitebusiness_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\0ce2c9492301ef87f53b06195186c77d.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001071s ]
+
+[ 2016-04-27T09:24:53+08:00 ] ::1 /develop/water/admin.php/Home/Policies/policiesShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+NOTIC: [8] Use of undefined constant shengnei - assumed 'shengnei' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant guojia - assumed 'guojia' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `policies_content` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `policies_content` WHERE `type` = 'shuiligongcheng' ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `policies_content` WHERE `type` = 'shuiligongcheng' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `policies_index` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `policies_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\cd7ef5c6ae0d0dc7baba62fee40e9430.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017228s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017310s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001061s ]
+
+[ 2016-04-27T09:24:54+08:00 ] ::1 /develop/water/admin.php/Home/Policies/policiesAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+SQL: SHOW COLUMNS FROM `policies_index` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `policies_index`  [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 75 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2016-04-27T09:24:55+08:00 ] ::1 /develop/water/admin.php/Home/Policies/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002185s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T09:24:56+08:00 ] ::1 /develop/water/admin.php/Home/Policies/policiesShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+NOTIC: [8] Use of undefined constant shengnei - assumed 'shengnei' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant guojia - assumed 'guojia' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `policies_content` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `policies_content` WHERE `type` = 'shuiligongcheng' ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `policies_content` WHERE `type` = 'shuiligongcheng' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `policies_index` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `policies_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000186s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\cd7ef5c6ae0d0dc7baba62fee40e9430.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014273s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000950s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2016-04-27T09:24:58+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/BusinessShowList.html?type=guojia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001680s ]
+NOTIC: [8] Use of undefined constant tuijiehui - assumed 'tuijiehui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant jiaoliuhui - assumed 'jiaoliuhui' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant shuilituiguang - assumed 'shuilituiguang' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant dianxingxiangm - assumed 'dianxingxiangm' D:\xampp\htdocs\develop\water\Admin\Home\Controller\WebsiteBusinessController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `websitebusiness_content` WHERE `type` = 'guojia' ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `websitebusiness_content` WHERE `type` = 'guojia' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_index` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `websitebusiness_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\0ce2c9492301ef87f53b06195186c77d.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000937s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001059s ]
+
+[ 2016-04-27T09:28:13+08:00 ] ::1 /develop/water/admin.php/Home/Policies/policiesAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001466s ]
+SQL: SHOW COLUMNS FROM `policies_index` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `policies_index`  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 75 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011225s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001244s ]
+
+[ 2016-04-27T09:28:13+08:00 ] ::1 /develop/water/admin.php/Home/Policies/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001844s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T09:28:15+08:00 ] ::1 /develop/water/admin.php/Home/Policies/policiesShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+NOTIC: [8] Use of undefined constant shengnei - assumed 'shengnei' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant guojia - assumed 'guojia' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `policies_content` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `policies_content` WHERE `type` = 'shuiligongcheng' ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `policies_content` WHERE `type` = 'shuiligongcheng' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `policies_index` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `policies_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\cd7ef5c6ae0d0dc7baba62fee40e9430.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001202s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001260s ]
+
+[ 2016-04-27T09:28:16+08:00 ] ::1 /develop/water/admin.php/Home/Policies/policiesShowList.html?type=guojia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+NOTIC: [8] Use of undefined constant shengnei - assumed 'shengnei' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant guojia - assumed 'guojia' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `policies_content` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `policies_content` WHERE `type` = 'guojia' ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `policies_content` WHERE `type` = 'guojia' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `policies_index` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `policies_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\cd7ef5c6ae0d0dc7baba62fee40e9430.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001064s ]
+
+[ 2016-04-27T09:28:19+08:00 ] ::1 /develop/water/admin.php/Home/Policies/policiesShowList.html?type=shengnei
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+NOTIC: [8] Use of undefined constant shengnei - assumed 'shengnei' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `policies_content` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `policies_content` WHERE `type` = 'shengnei' ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `policies_content` WHERE `type` = 'shengnei' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `policies_index` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `policies_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\cd7ef5c6ae0d0dc7baba62fee40e9430.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013920s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001130s ]
+
+[ 2016-04-27T09:28:58+08:00 ] ::1 /develop/water/admin.php/Home/Policies/policiesShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001786s ]
+NOTIC: [8] Use of undefined constant shengnei - assumed 'shengnei' D:\xampp\htdocs\develop\water\Admin\Home\Controller\PoliciesController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `policies_content` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `policies_content` WHERE `type` = 'shengnei' ORDER BY id desc  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `policies_content` WHERE `type` = 'shengnei' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `policies_index` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `policies_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\cd7ef5c6ae0d0dc7baba62fee40e9430.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017539s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001880s ]
+
+[ 2016-04-27T09:41:18+08:00 ] ::1 /develop/water/admin.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001756s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\xampp\htdocs\develop\water\Admin\Home\Controller\IndexController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017160s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017253s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002037s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002108s ]
+
+[ 2016-04-27T09:41:18+08:00 ] ::1 /develop/water/admin.php/Home/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001779s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000403s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015890s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001675s ]
+
+[ 2016-04-27T09:41:18+08:00 ] ::1 /develop/water/admin.php/Home/Index/skin/default/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001507s ]
+
+[ 2016-04-27T09:41:20+08:00 ] ::1 /develop/water/admin.php/Home/Service/ServiceShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+SQL: SHOW COLUMNS FROM `service_index` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `service_index`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `service_content` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `service_content` ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `service_content` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\a633977077a744298e4c574f35ab93a7.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001182s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001286s ]
+
+[ 2016-04-27T09:41:20+08:00 ] ::1 /develop/water/admin.php/Home/Service/ServiceShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001549s ]
+NOTIC: [8] Use of undefined constant rencaipeixun - assumed 'rencaipeixun' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ServiceController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `service_content` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `service_content` WHERE `type` = 'rencaipeixun' ORDER BY id desc  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `service_content` WHERE `type` = 'rencaipeixun' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `service_index` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `service_index`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\a633977077a744298e4c574f35ab93a7.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001600s ]
+
+[ 2016-04-27T09:41:25+08:00 ] ::1 /develop/water/admin.php/Home/Service/ServiceShowList.html?type=xiangguanxiazai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+NOTIC: [8] Use of undefined constant rencaipeixun - assumed 'rencaipeixun' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ServiceController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant xiangguanxiazai - assumed 'xiangguanxiazai' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ServiceController.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `service_content` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `service_content` WHERE `type` = 'xiangguanxiazai' ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `service_content` WHERE `type` = 'xiangguanxiazai' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `service_index` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `service_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\a633977077a744298e4c574f35ab93a7.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010089s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2016-04-27T09:41:26+08:00 ] ::1 /develop/water/admin.php/Home/Service/ServiceShowList.html?type=rencaipeixun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+NOTIC: [8] Use of undefined constant rencaipeixun - assumed 'rencaipeixun' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ServiceController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `service_content` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `service_content` WHERE `type` = 'rencaipeixun' ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `service_content` WHERE `type` = 'rencaipeixun' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `service_index` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `service_index`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\a633977077a744298e4c574f35ab93a7.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009239s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009294s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000899s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000946s ]
+
+[ 2016-04-27T09:41:28+08:00 ] ::1 /develop/water/admin.php/Home/Service/ServiceAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `service_index` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `service_index`  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ServiceController.class.php 第 75 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001496s ]
+
+[ 2016-04-27T09:41:28+08:00 ] ::1 /develop/water/admin.php/Home/Service/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T09:56:45+08:00 ] ::1 /develop/water/admin.php/Home/Overview/overviewShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001945s ]
+SQL: SHOW COLUMNS FROM `overview_index` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `overview_index`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `overview_content` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `overview_content` ORDER BY id desc  [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `overview_content` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\4e39ec0911f0b0e5587d74894be55bf0.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002168s ]
+
+[ 2016-04-27T09:56:56+08:00 ] ::1 /develop/water/admin.php/Home/Index/New.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+ERR: 非法操作:New
+
+[ 2016-04-27T10:20:03+08:00 ] ::1 /develop/water/admin.php/Home/Index/New.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001936s ]
+ERR: 非法操作:New
+
+[ 2016-04-27T10:20:04+08:00 ] ::1 /develop/water/admin.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001609s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\xampp\htdocs\develop\water\Admin\Home\Controller\IndexController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016923s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002584s ]
+
+[ 2016-04-27T10:20:04+08:00 ] ::1 /develop/water/admin.php/Home/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001410s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000185s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000293s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018815s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005669s ]
+
+[ 2016-04-27T10:20:04+08:00 ] ::1 /develop/water/admin.php/Home/Index/skin/default/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001782s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001417s ]
+
+[ 2016-04-27T10:20:06+08:00 ] ::1 /develop/water/admin.php/Home/Exchange/ExchangeShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+SQL: SHOW COLUMNS FROM `exchange_index` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `exchange_index`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `exchange_content` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `exchange_content` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `exchange_content` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\311412bff2cc921d4724eefcb0ac8e82.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013995s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014068s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003906s ]
+
+[ 2016-04-27T10:20:10+08:00 ] ::1 /develop/water/admin.php/Home/Exchange/ExchangeAddSelect.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+SQL: SHOW COLUMNS FROM `exchange_index` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `exchange_index`  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant add_select - assumed 'add_select' D:\xampp\htdocs\develop\water\Admin\Home\Controller\ExchangeController.class.php 第 72 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001092s ]
+
+[ 2016-04-27T10:20:10+08:00 ] ::1 /develop/water/admin.php/Home/Exchange/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+ERR: 非法操作:editor
+
+[ 2016-04-27T17:17:04+08:00 ] ::1 /develop/water/admin.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001516s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\xampp\htdocs\develop\water\Admin\Home\Controller\IndexController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002125s ]
+
+[ 2016-04-27T17:17:04+08:00 ] ::1 /develop/water/admin.php/Home/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003186s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024974s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002618s ]
+
+[ 2016-04-27T17:17:04+08:00 ] ::1 /develop/water/admin.php/Home/Index/skin/default/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001154s ]
+
+[ 2016-04-27T17:17:06+08:00 ] ::1 /develop/water/admin.php/Home/System/staticIndex.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Undefined variable: name D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-04-27T22:41:46+08:00 ] ::1 /develop/water/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001427s ]
+
+[ 2016-04-27T22:41:46+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001410s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011755s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001544s ]
+
+[ 2016-04-27T22:41:46+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001812s ]
+
+[ 2016-04-27T22:41:46+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002902s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002338s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001923s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001985s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001574s ]
+
+[ 2016-04-27T22:41:46+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002271s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014134s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002733s ]
+
+[ 2016-04-27T22:41:46+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001992s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001892s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001957s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001368s ]
+
+[ 2016-04-27T22:41:46+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001726s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001686s ]
+

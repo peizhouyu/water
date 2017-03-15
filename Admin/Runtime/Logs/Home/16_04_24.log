@@ -1,0 +1,471 @@
+[ 2016-04-24T13:09:49+08:00 ] ::1 /develop/water/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+
+[ 2016-04-24T13:09:49+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001490s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011134s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001664s ]
+
+[ 2016-04-24T13:09:50+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002366s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030833s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002372s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001698s ]
+
+[ 2016-04-24T13:09:50+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001739s ]
+
+[ 2016-04-24T13:09:50+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002616s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014493s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002128s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002195s ]
+
+[ 2016-04-24T13:09:50+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001468s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001450s ]
+
+[ 2016-04-24T13:09:50+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001774s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001708s ]
+
+[ 2016-04-24T13:09:58+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002053s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000208s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013082s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001894s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001838s ]
+
+[ 2016-04-24T13:09:58+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002427s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043053s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003511s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006654s ]
+
+[ 2016-04-24T13:09:58+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002438s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002752s ]
+
+[ 2016-04-24T13:09:58+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002595s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006058s ]
+
+[ 2016-04-24T13:09:59+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001653s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000444s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000614s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015522s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001913s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001819s ]
+
+[ 2016-04-24T13:09:59+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002221s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000447s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018203s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001767s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003231s ]
+
+[ 2016-04-24T13:10:01+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/cate_id%3D%3E2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001781s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010610s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001939s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002416s ]
+
+[ 2016-04-24T13:10:01+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003970s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001853s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001923s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002377s ]
+
+[ 2016-04-24T13:10:01+08:00 ] ::1 /develop/water/admin.php/Home/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004230s ]
+
+[ 2016-04-24T13:10:01+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003504s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000221s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001649s ]
+
+[ 2016-04-24T13:10:02+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/lib/jquery/1.9.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002283s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014098s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001645s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001462s ]
+
+[ 2016-04-24T13:10:02+08:00 ] ::1 /develop/water/admin.php/Home/Index/login/0/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003139s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000186s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011652s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011727s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001436s ]
+
+[ 2016-04-24T13:10:05+08:00 ] ::1 /develop/water/admin.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001408s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `user` WHERE `name` = 'root' AND `password` = 'root' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010614s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001354s ]
+
+[ 2016-04-24T13:10:06+08:00 ] ::1 /develop/water/admin.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\xampp\htdocs\develop\water\Admin\Home\Controller\IndexController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000296s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015077s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002475s ]
+
+[ 2016-04-24T13:10:07+08:00 ] ::1 /develop/water/admin.php/Home/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002095s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002438s ]
+
+[ 2016-04-24T13:10:07+08:00 ] ::1 /develop/water/admin.php/Home/Index/skin/default/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002825s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002618s ]
+
+[ 2016-04-24T13:10:07+08:00 ] ::1 /develop/water/admin.php/Home/Index/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+
+[ 2016-04-24T13:10:09+08:00 ] ::1 /develop/water/admin.php/Home/New/newsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002470s ]
+SQL: SHOW COLUMNS FROM `news_index` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `news_index`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `news_gonggao` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `news_gonggao` ORDER BY id desc  [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `news_gonggao` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001245s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002116s ]
+
+[ 2016-04-24T13:10:11+08:00 ] ::1 /develop/water/admin.php/Home/WebsiteBusiness/BusinessShowList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001490s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_index` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `websitebusiness_index`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `websitebusiness_content` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `websitebusiness_content` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `websitebusiness_content` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Undefined variable: page D:\xampp\htdocs\develop\water\Admin\Runtime\Cache\Home\0ce2c9492301ef87f53b06195186c77d.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013885s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002717s ]
+

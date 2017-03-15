@@ -1,0 +1,27 @@
+.listNews .proShow-subNav .data-accordion{
+	margin: 0;
+	padding-left: 1.5em;
+}
+.listNews .proShow-subNav .data-accordion li{
+	padding: 0;
+}
+.listNews .am-gallery{
+	margin: 0;
+	margin-top: 2.5em;
+}
+.proShow-subNav .data-accordion{
+	border-top: 9px solid #6AA0E2;
+}
+.listNews .listNewsNav{
+	padding: 0 1em 0 0;
+}
+.listNews .proShow-subNav .data-accordion .data-link{
+	background: none;
+	padding-right: 1em;
+}
+@media (max-width: 768px) {
+	.listNews .proShow-subNav .data-accordion{
+		padding-left: 1em;
+	}
+	.listNews .listNewsNav
+}

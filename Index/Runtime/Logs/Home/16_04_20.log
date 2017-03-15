@@ -1,0 +1,36 @@
+[ 2016-04-20T21:35:17+08:00 ] ::1 /develop/water/
+NOTIC: [2] file_put_contents(./Index/Common/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Common/Common/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Common/Conf/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Home/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Home/Common/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Home/Controller/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Home/Model/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Home/Conf/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Home/View/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Runtime/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Runtime/Cache/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Runtime/Cache/Home/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Runtime/Logs/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Runtime/Logs/Home/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Runtime/Temp/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+NOTIC: [2] file_put_contents(./Index/Runtime/Data/): failed to open stream: No such file or directory D:\xampp\htdocs\develop\water\ThinkPHP\Library\Think\Build.class.php 第 161 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002167s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001257s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001328s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011430s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001414s ]
+
